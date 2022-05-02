@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @utilrr
-- 👀 I’m interested in music, footbal(soccer), expanding my knowledge
-- 🌱 I’m currently learning full stack web dev
-- 💞️ I’m looking to collaborate on interesting projects
-- 📫 How to reach me TBD
+- 👋 Hi, I’m Mark Healy and I'm using @utilrr as my GitHub name.
+- 👀 Some of my interests include music, footbal(soccer) and expanding my knowledge of web-related technologies.
+- 🌱 I’m currently learning full stack web development.
+- 💞️ I’m looking to collaborate on interesting projects, and I welcome some good mentorship!
+- 📫 You can reach me at gmarkghealy@gmail.com.
 
 <!---
 utilrr/utilrr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
